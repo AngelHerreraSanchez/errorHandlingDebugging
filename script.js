@@ -15,7 +15,6 @@ function validateUsername(username) {
 }
 
 
-
 try{
     console.log(validateUsername("abc"));
 }catch(error){
